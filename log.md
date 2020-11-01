@@ -56,6 +56,26 @@
 **Twitter Link:** [Day 5](https://twitter.com/KaizarNike/status/1315529464630194178)
 
 
+### Day 6: October 13, 2020
+
+**Progress Report:** Work on pset 6 of CS50, Python
+
+**Future Thoughts:** Many things work easier in python than in C. I learned this back in 2013 so its fairly familiar.
+
+**Twitter Link:** [Day 6](https://twitter.com/KaizarNike/status/1316228637377597441)
+
+
+### Day 7: October 14, 2020
+
+**Progress Report:** Work on Readability of pset 6 for CS50, Python
+
+**Future Thoughts:** Looks much better in python imo, its very simple making the translation from C to python.
+
+**Twitter Link:** [Day 7](https://twitter.com/KaizarNike/status/1316521871324729345)
+
+
+
+
 <!-- Template
 ### Day X: October X, 2020
 
@@ -63,29 +83,10 @@
 
 **Future Thoughts:**
 
-**Twitter Link:** [Day 5](https://twitter.com/KaizarNike/status/1315529464630194178)
+**Twitter Link:** [Day X]()
 -->
 
 <!-- Mega Comment (kept so I can see the markup for learning)
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
