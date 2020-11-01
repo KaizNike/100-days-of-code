@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 0: October 1, 2020
+
+**Progress Report"** Installed win XP on Virtual Box.
+
+**Future Thoughts:** This counts as day -1. Wanted to try getting some old games running, but ended up deleting the machine. Security risk it can be. Fun lesson in work, had to get several user patches for the OS. Got avast running as well as Sim Earth. It was too unstable however. I'm sure I'll end up trying again, but will focus on getting versions of game that run on 64-bit systems. Also need to repair my game library from my hard drive crash.
+
+**Twitter Link:** [Day 0](https://twitter.com/KaizarNike/status/1311579853087559682)
+
+<!-- Mega Comment (kept so I can see the markup for learning)
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
@@ -28,3 +37,4 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+-->
