@@ -53,6 +53,8 @@
 
 **Future Thoughts:** Very fun, but the light I made was a bit bright.
 
+**Project Link:** Upcoming! (Screen Toybox)
+
 **Twitter Link:** [Day 5](https://twitter.com/KaizarNike/status/1315529464630194178)
 
 
@@ -74,6 +76,70 @@
 **Twitter Link:** [Day 7](https://twitter.com/KaizarNike/status/1316521871324729345)
 
 
+### Day 8: October 15, 2020
+
+**Progress Report:** Work on DNA of pset 6 for CS50, Python
+
+**Future Thoughts:** Stack overflow is an addicting thing, I did most of this problem myself, but in the end, their code was much prettier than what solution I was puzzling over.
+
+**Twitter Link:** [Day 8](https://twitter.com/KaizarNike/status/1316948386558390274)
+
+
+### Day 9: October 16, 2020
+
+**Progress Report:** New Toybox Scene (Bubbles) Added!
+
+**Future Thoughts:** Very fun, much pop!
+
+**Project Link:** Upcoming! (Screen Toybox)
+
+**Twitter Link:** [Day 9](https://twitter.com/KaizarNike/status/1317287346375708674)
+
+
+### Day 10: October 17, 2020
+
+**Progress Report:** Popping audio added to each bubble.
+
+**Future Thoughts:** Now with better pop.
+
+**Twitter Link:** [Day 10](https://twitter.com/KaizarNike/status/1317632309282091008)
+
+
+## Extended Break
+October 18 - October 29
+12 Days Added to Finish, New end date (28 Jan 2021)
+Note: Duckduckgo good for calculating dates.
+
+
+### Day 22: October 30, 2020
+
+**Progress Report:** Started SQL, week 7 of CS50
+
+**Future Thoughts:** Very tricky to start, but I mastered it quickly.
+
+**Twitter Link:** [Day 22](https://twitter.com/KaizarNike/status/1322100082452299776)
+
+
+### Day 23: October 31, 2020
+
+**Progress Report:** Finished pset 7 of CS50, SQL and Python
+
+**Future Thoughts:** Yesterday from the current perspective! This was quite challenging and I was despairing by the end of the first half. Ended up looking up solutions on Stack Overflow. Did do the majority on my own, but subqueries are still a bit of a mystery to me, will have to spend more time learning SQL in the future.
+
+**Twitter Link:** [Day 23](https://twitter.com/KaizarNike/status/1322682683227402242)
+
+
+### Day 24: November 1, 2020
+
+**UPDATE:** Started the github fork, will avoid taking major breaks.
+
+**Update Thoughts:** That was a fair bit of work, luckily its easier going from here. I sure am a nightowl. Now starting 20 minutes of exercise a day, as I have been lax recently.
+
+**Progress Report:** WAITING
+
+**Thoughts:** To be said.
+
+**Links:** Soon.
 
 
 <!-- Template
