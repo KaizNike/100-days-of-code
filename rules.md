@@ -4,7 +4,7 @@
 ### *I will code for at least an hour every day for the next 100 days.*
 
 #### Start Date
-June 25th, 2016. [PUT YOUR DATE HERE]
+October 9, 2020
 
 ## Additional Rules
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
@@ -12,6 +12,9 @@ June 25th, 2016. [PUT YOUR DATE HERE]
 3. I will push code to GitHub every day so that anyone can see my progress.
 4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
 5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))
+#### Personal Challenges
+6. I will maintain my health and exercise 20 minutes a day.
+7. I will find employment or otherwise make money from coding within the next 200 days.
 
 
 ## Ideas to make this challenge more effective
