@@ -53,7 +53,7 @@
 
 **Future Thoughts:** Very fun, but the light I made was a bit bright.
 
-**Project Link:** Upcoming! (Screen Toybox)
+**Project Link:** [Screen Toybox](https://github.com/KaizNike/screen-toybox)
 
 **Twitter Link:** [Day 5](https://twitter.com/KaizarNike/status/1315529464630194178)
 
@@ -91,7 +91,7 @@
 
 **Future Thoughts:** Very fun, much pop!
 
-**Project Link:** Upcoming! (Screen Toybox)
+**Project Link:** [Screen Toybox](https://github.com/KaizNike/screen-toybox)
 
 **Twitter Link:** [Day 9](https://twitter.com/KaizarNike/status/1317287346375708674)
 
@@ -101,6 +101,8 @@
 **Progress Report:** Popping audio added to each bubble.
 
 **Future Thoughts:** Now with better pop.
+
+**Project Link:** [Screen Toybox](https://github.com/KaizNike/screen-toybox)
 
 **Twitter Link:** [Day 10](https://twitter.com/KaizarNike/status/1317632309282091008)
 
@@ -135,11 +137,13 @@ Note: Duckduckgo good for calculating dates.
 
 **Update Thoughts:** That was a fair bit of work, luckily its easier going from here. I sure am a nightowl. Now starting 20 minutes of exercise a day, as I have been lax recently.
 
-**Progress Report:** WAITING
+**Progress Report:** Uploaded my Screen Toybox to Github, to be followed by itch.io release tommorrow.
 
-**Thoughts:** To be said.
+**Thoughts:** Holy cow the time I spent choosing a license, at first I wanted to enforce that all variations on my program were under the same license, but I settled for MIT, safe and simple. Got a fair bit of exercise in, but will start timing myself to be sure.
 
-**Links:** Soon.
+**Twitter Link:** [Day 24](https://twitter.com/KaizarNike/status/1323142431345319938)
+
+**Project Link:** [Screen Toybox](https://github.com/KaizNike/screen-toybox)
 
 
 <!-- Template
