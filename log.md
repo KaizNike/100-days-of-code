@@ -146,12 +146,23 @@ Note: Duckduckgo good for calculating dates.
 **Project Link:** [Screen Toybox](https://github.com/KaizNike/screen-toybox)
 
 
+
+### Day 25: November 2, 2020
+
+**Progress Report:** Preparations for itch.io release
+
+**Thoughts:** Plenty of work still to do, I said I would finish by today, but I am spending my free time working on other things. Did you know that PSN for PS3 is still running alright? Of course I had trouble with the web browser, but the youtube app works fine. I love maintaining older consoles, maybe I should learn how to maintain the hardware, sounds tricky! 
+
+**Twitter Link:** [Day 25](https://twitter.com/KaizarNike/status/1323501025534205952)
+
+**Project Link:** [Screen Toybox](https://github.com/KaizNike/screen-toybox)
+
 <!-- Template
-### Day X: October X, 2020
+### Day X: November X, 2020
 
 **Progress Report:**
 
-**Future Thoughts:**
+**Thoughts:**
 
 **Twitter Link:** [Day X]()
 -->
