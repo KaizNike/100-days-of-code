@@ -157,6 +157,35 @@ Note: Duckduckgo good for calculating dates.
 
 **Project Link:** [Screen Toybox](https://github.com/KaizNike/screen-toybox)
 
+
+
+## Short Break
+November 3 - November 4
+2 Days Added to Finish, New end date (30 Jan 2021)
+
+
+### Day 28: November 5, 2020
+
+**Progress Report:** Updated my game jam game, Walk the Horizon
+
+**Thoughts:** A brief detour into an older project, many of which I would like to continue working on.
+
+**Twitter Link:** [Day 28](https://twitter.com/KaizarNike/status/1324613621813452800)
+
+**Itch Link:** [Walk the Horizon](https://kaizarnike.itch.io/walk-the-horizon)
+
+
+### Day 29: November 6, 2020
+
+**Progress Report:** Uploaded my toybox to Itch.io
+
+**Thoughts:** Did the cover art last second, but it turned out pretty good.
+
+**Twitter Link:** [Day 29](https://twitter.com/KaizarNike/status/1324932884151463937)
+
+**Itch Link:** [Screen Toybox](https://kaizarnike.itch.io/screen-toybox)
+
+
 <!-- Template
 ### Day X: November X, 2020
 
