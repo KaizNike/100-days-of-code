@@ -199,7 +199,7 @@ November 7 - November 11
 
 **Thoughts:** I want to be more consistent in my goals, I've been rather lax thus far. I'll be spending time on the CS50 final project coming up, need to decide on that soon.
 
-**Twitter Link:** [Day 35](https://twitter.com/KaizarNike/status/1324932884151463937)
+**Twitter Link:** [Day 35](https://twitter.com/KaizarNike/status/1326827011394822144)
 
 
 <!-- Template
