@@ -186,6 +186,22 @@ November 3 - November 4
 **Itch Link:** [Screen Toybox](https://kaizarnike.itch.io/screen-toybox)
 
 
+
+## Short Break
+November 7 - November 11
+5 Days Added to Finish, New end date (4 Feb 2021)
+
+
+
+### Day 35: November 12, 2020
+
+**Progress Report:** Completed Pong and Mario of CS50 Week 8 Games Track
+
+**Thoughts:** I want to be more consistent in my goals, I've been rather lax thus far. I'll be spending time on the CS50 final project coming up, need to decide on that soon.
+
+**Twitter Link:** [Day 35](https://twitter.com/KaizarNike/status/1324932884151463937)
+
+
 <!-- Template
 ### Day X: November X, 2020
 
