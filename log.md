@@ -202,6 +202,15 @@ November 7 - November 11
 **Twitter Link:** [Day 35](https://twitter.com/KaizarNike/status/1326827011394822144)
 
 
+
+### Day 36: November 13, 2020
+
+**Progress Report:** Started research for CS50 final project (Roguelike)
+
+**Thoughts:** Been sitting on the concept since June and decided to use it for the final project. Sneak peek is of a roguelike with morality system, where you can save or ruin the worlds in play.
+
+**Twitter Link:** [Day 36](https://twitter.com/KaizarNike/status/1327171021045071874)
+
 <!-- Template
 ### Day X: November X, 2020
 
