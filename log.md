@@ -211,6 +211,30 @@ November 7 - November 11
 
 **Twitter Link:** [Day 36](https://twitter.com/KaizarNike/status/1327171021045071874)
 
+
+
+## Study Break
+November 14 - November 15
+2 Days Added to Finish, New end date (6 Feb 2021)
+
+
+
+### Day 39: November 16, 2020
+
+**Progress Report:** Started coding for Three World Champion
+
+**Future Thoughts:** Followed some roguelike tutorials on youtube for Godot to get player movement down. Not too happy with the results. I think I'll go with what I know and store a seperate x and y value in the code to base the players position. Right now I'm using [MostlyMadProduction's](https://www.youtube.com/watch?v=re4VIqUR6HE) code for the player. 
+
+
+### Day 40: November 17, 2020
+
+**Progress Report:** Started world gen for Three World Champion
+
+**Thoughts:** Today I've got the basics of worldgen down. I start with an array defined by the caller. Then I iterate through the 2d array twice, once to set the tiles and then again to place them. The world can be any size, limited by memory, but I found 3024x3024 to be as high as I want to go. My idea is of a world map and then level maps. My idea is that for each tile on the world map there is a level hidden on it, that you access by moving down (>), like in Dwarf Fortress. Not too sure if the levels should be uniform and load another at the edge, or differing sizes and change on transition. I will try each.
+
+**Twitter Link:** [Day 40](https://twitter.com/KaizarNike/status/1328880839132807171)
+
+
 <!-- Template
 ### Day X: November X, 2020
 
